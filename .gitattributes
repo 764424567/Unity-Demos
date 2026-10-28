@@ -1,0 +1,82 @@
+# Git LFS - large binary files
+#
+# GitHub blocks pushes with files over 100MB.
+# The 74 files below (>=10MB each) are stored via Git LFS.
+# Paths containing spaces are double-quoted per gitattributes syntax.
+#
+# Format: <path> filter=lfs diff=lfs merge=lfs -text
+
+Demo_2021.2.7/Assets/Font/SourceHanSerifSC-Bold.otf filter=lfs diff=lfs merge=lfs -text
+Demo_2021.2.7/Assets/Font/SourceHanSerifSC-ExtraLight.otf filter=lfs diff=lfs merge=lfs -text
+Demo_2021.2.7/Assets/Font/SourceHanSerifSC-Heavy.otf filter=lfs diff=lfs merge=lfs -text
+Demo_2021.2.7/Assets/Font/SourceHanSerifSC-Medium.otf filter=lfs diff=lfs merge=lfs -text
+Demo_2021.2.7/Assets/Font/SourceHanSerifSC-Regular.otf filter=lfs diff=lfs merge=lfs -text
+Demo_2021.2.7/Assets/Font/SourceHanSerifSC-SemiBold.otf filter=lfs diff=lfs merge=lfs -text
+Demo_2021.2.7/Assets/XChartsDemo/demo_xchart.unity filter=lfs diff=lfs merge=lfs -text
+Demo_2021.2.7/Assets/ZFBrowser/Plugins/l64/libGLESv2.so filter=lfs diff=lfs merge=lfs -text
+Demo_2021.2.7/Assets/ZFBrowser/Plugins/l64/zf_cef.so filter=lfs diff=lfs merge=lfs -text
+"Demo_2021.2.7/Assets/ZFBrowser/Plugins/m64/BrowserLib.app/Contents/Frameworks/Chromium Embedded Framework.framework/Chromium Embedded Framework" filter=lfs diff=lfs merge=lfs -text
+Demo_2021.2.7/Assets/ZFBrowser/Plugins/w32/zf_cef.dll filter=lfs diff=lfs merge=lfs -text
+Demo_2021.2.7/Assets/ZFBrowser/Plugins/w64/zf_cef.dll filter=lfs diff=lfs merge=lfs -text
+Demo_20230707/Assets/ZFBrowser/Plugins/l64/libGLESv2.so filter=lfs diff=lfs merge=lfs -text
+Demo_20230707/Assets/ZFBrowser/Plugins/l64/zf_cef.so filter=lfs diff=lfs merge=lfs -text
+"Demo_20230707/Assets/ZFBrowser/Plugins/m64/BrowserLib.app/Contents/Frameworks/Chromium Embedded Framework.framework/Chromium Embedded Framework" filter=lfs diff=lfs merge=lfs -text
+Demo_20230707/Assets/ZFBrowser/Plugins/w32/zf_cef.dll filter=lfs diff=lfs merge=lfs -text
+Demo_20230707/Assets/ZFBrowser/Plugins/w64/zf_cef.dll filter=lfs diff=lfs merge=lfs -text
+Demo_Daily/Assets/20240926_ObiPlugins/Obi/Plugins/iOS/libOni.a filter=lfs diff=lfs merge=lfs -text
+Demo_Decoration/Assets/01/01.prefab filter=lfs diff=lfs merge=lfs -text
+Demo_Decoration/Assets/NewFold/Models/2z/Material/circus_maximus_1_4k.hdr filter=lfs diff=lfs merge=lfs -text
+Demo_Decoration/Assets/NewFold/Models/2z/Material/dresden_square_4k.hdr filter=lfs diff=lfs merge=lfs -text
+Demo_Decoration/Assets/NewFold/Scenes/2_1.unity filter=lfs diff=lfs merge=lfs -text
+Demo_Decoration/Assets/NewFold/Scenes/3_1.unity filter=lfs diff=lfs merge=lfs -text
+Demo_Decoration/Assets/Scenes/1.unity filter=lfs diff=lfs merge=lfs -text
+"Demo_Decoration/Assets/Ultimate Game Tools/MeshSimplify/Data/Prefabs/CarStripe.prefab" filter=lfs diff=lfs merge=lfs -text
+Demo_Hybridclr/HybridCLRData/LocalIl2CppData-WindowsEditor/MonoBleedingEdge/lib/mono/4.5/Microsoft.CodeAnalysis.CSharp.dll.dylib filter=lfs diff=lfs merge=lfs -text
+Demo_Hybridclr/HybridCLRData/LocalIl2CppData-WindowsEditor/MonoBleedingEdge/lib/mono/4.5/Microsoft.CodeAnalysis.dll.dylib filter=lfs diff=lfs merge=lfs -text
+Demo_Hybridclr/HybridCLRData/LocalIl2CppData-WindowsEditor/MonoBleedingEdge/lib/mono/4.5/mscorlib.dll.dylib filter=lfs diff=lfs merge=lfs -text
+Demo_PlatformInterface/Assets/StreamingAssets/jsonInfo2.txt filter=lfs diff=lfs merge=lfs -text
+Demo_SKFramework/Assets/Font/正文字体.otf filter=lfs diff=lfs merge=lfs -text
+"Demo_SKFramework/Unity SKFramework/Unity SKFramework框架（二十四）、Avatar Controller 第三人称控制_CoderZ1010的博客-CSDN博客.mhtml" filter=lfs diff=lfs merge=lfs -text
+"Demo_SKFramework/Unity SKFramework/Unity SKFramework框架（十七）、FreeCameraController 上帝视角_自由视角相机控制脚本_unity camera控制(上帝视角)_CoderZ1010的博客-CSDN博客.mhtml" filter=lfs diff=lfs merge=lfs -text
+"Demo_SKFramework/Unity SKFramework/Unity SKFramework框架（十八）、RoamCameraController 漫游视角相机控制脚本_unity相机控制脚本_CoderZ1010的博客-CSDN博客.mhtml" filter=lfs diff=lfs merge=lfs -text
+Demo_SplitModels/HybridCLRData/LocalIl2CppData-WindowsEditor/MonoBleedingEdge/lib/mono/4.5/Microsoft.CodeAnalysis.CSharp.dll.dylib filter=lfs diff=lfs merge=lfs -text
+Demo_SplitModels/HybridCLRData/LocalIl2CppData-WindowsEditor/MonoBleedingEdge/lib/mono/4.5/Microsoft.CodeAnalysis.dll.dylib filter=lfs diff=lfs merge=lfs -text
+Demo_SplitModels/HybridCLRData/LocalIl2CppData-WindowsEditor/MonoBleedingEdge/lib/mono/4.5/mscorlib.dll.dylib filter=lfs diff=lfs merge=lfs -text
+Demo_T2019.4/Assets/六面顶压机/SampleScene/LightingData.asset filter=lfs diff=lfs merge=lfs -text
+Demo_TTS/Assets/ImportAssets/Font/正文字体.otf filter=lfs diff=lfs merge=lfs -text
+Demo_Test/Assets/Tool/Obi/Plugins/iOS/libOni.a filter=lfs diff=lfs merge=lfs -text
+Demo_WebGLTest/Assets/ABs/modelfitting.unity3d filter=lfs diff=lfs merge=lfs -text
+Demo_WebGLTest/Assets/Scenes/t1.unity filter=lfs diff=lfs merge=lfs -text
+FPSMicrogame/Assets/FPS/Scenes/SecondaryScene.unity filter=lfs diff=lfs merge=lfs -text
+FactoryScene_URP/Assets/Crest/Crest-Examples/PirateCove/Props/Sketchfab_FREE/by_GSXNet/megalithic-rocks-las-piedrotas-tapalpa-mexico/Las_Piedrotas.dae.obj filter=lfs diff=lfs merge=lfs -text
+FactoryScene_URP/Assets/Scenes/changqu.unity filter=lfs diff=lfs merge=lfs -text
+"Frame_TestVRFrame/Assets/Artworks/Buskit3D/Fonts/simhei SDF.asset" filter=lfs diff=lfs merge=lfs -text
+Frame_TestVRFrame/Assets/StreamingAssets/Video/OGV/2.ogv filter=lfs diff=lfs merge=lfs -text
+GF_GameDemo/StarForce-master/HybridCLRData/LocalIl2CppData-WindowsEditor/MonoBleedingEdge/lib/mono/4.5/Microsoft.CodeAnalysis.CSharp.dll.dylib filter=lfs diff=lfs merge=lfs -text
+GF_GameDemo/StarForce-master/HybridCLRData/LocalIl2CppData-WindowsEditor/MonoBleedingEdge/lib/mono/4.5/Microsoft.CodeAnalysis.dll.dylib filter=lfs diff=lfs merge=lfs -text
+GF_GameDemo/StarForce-master/HybridCLRData/LocalIl2CppData-WindowsEditor/MonoBleedingEdge/lib/mono/4.5/mscorlib.dll.dylib filter=lfs diff=lfs merge=lfs -text
+Plugin_XCharts/Assets/XChartsDemo/demo_xchart.unity filter=lfs diff=lfs merge=lfs -text
+Project_OpenCVforFace/Assets/DlibFaceLandmarkDetector/Plugins/iOS/libdlibfacelandmarkdetector.a filter=lfs diff=lfs merge=lfs -text
+Project_OpenCVforFace/Assets/DlibFaceLandmarkDetector/StreamingAssets/shape_predictor_68_cat_face_landmarks.dat filter=lfs diff=lfs merge=lfs -text
+Project_OpenCVforFace/Assets/DlibFaceLandmarkDetector/StreamingAssets/shape_predictor_68_face_landmarks.dat filter=lfs diff=lfs merge=lfs -text
+Project_OpenCVforFace/Assets/DlibFaceLandmarkDetector/StreamingAssets/shape_predictor_68_face_landmarks_for_mobile.dat filter=lfs diff=lfs merge=lfs -text
+Project_OpenCVforFace/Assets/DlibFaceLandmarkDetector/StreamingAssetss/shape_predictor_68_cat_face_landmarks.dat filter=lfs diff=lfs merge=lfs -text
+Project_OpenCVforFace/Assets/DlibFaceLandmarkDetector/StreamingAssetss/shape_predictor_68_face_landmarks.dat filter=lfs diff=lfs merge=lfs -text
+Project_OpenCVforFace/Assets/DlibFaceLandmarkDetector/StreamingAssetss/shape_predictor_68_face_landmarks_for_mobile.dat filter=lfs diff=lfs merge=lfs -text
+Project_OpenCVforFace/Assets/OpenCVForUnity/Plugins/Android/libs/x86/libopencvforunity.so filter=lfs diff=lfs merge=lfs -text
+Project_OpenCVforFace/Assets/OpenCVForUnity/Plugins/WebGL/5.3-5.4/opencvforunity.bc filter=lfs diff=lfs merge=lfs -text
+Project_OpenCVforFace/Assets/OpenCVForUnity/Plugins/WebGL/5.5/opencvforunity.bc filter=lfs diff=lfs merge=lfs -text
+Project_OpenCVforFace/Assets/OpenCVForUnity/Plugins/iOS/libopencvforunity.a filter=lfs diff=lfs merge=lfs -text
+Project_OpenCVforFace/Assets/OpenCVForUnity/Plugins/iOS/opencv2.framework/Versions/A/opencv2 filter=lfs diff=lfs merge=lfs -text
+Project_OpenCVforFace/Assets/OpenCVForUnity/Plugins/iOS/opencv2.framework/Versions/Current/opencv2 filter=lfs diff=lfs merge=lfs -text
+Project_OpenCVforFace/Assets/OpenCVForUnity/Plugins/iOS/opencv2.framework/opencv2 filter=lfs diff=lfs merge=lfs -text
+Project_OpenCVforFace/Assets/OpenCVForUnity/Plugins/opencvforunity.bundle/Contents/MacOS/libopencv_core.3.1.0.dylib filter=lfs diff=lfs merge=lfs -text
+Project_OpenCVforFace/Assets/OpenCVForUnity/Plugins/opencvforunity.bundle/Contents/MacOS/libopencv_imgproc.3.1.0.dylib filter=lfs diff=lfs merge=lfs -text
+Project_OpenCVforFace/Assets/OpenCVForUnity/Plugins/x86/opencvforunity.dll filter=lfs diff=lfs merge=lfs -text
+Project_OpenCVforFace/Assets/OpenCVForUnity/Plugins/x86_64/opencvforunity.dll filter=lfs diff=lfs merge=lfs -text
+Project_OpenCVforFace/Assets/OpenCVForUnity/StreamingAssets/768x576_mjpeg.mjpeg filter=lfs diff=lfs merge=lfs -text
+Project_OpenCVforFace/Assets/StreamingAssets/shape_predictor_68_face_landmarks.dat filter=lfs diff=lfs merge=lfs -text
+Project_OpenCVforFace/Assets/StreamingAssetss/shape_predictor_68_face_landmarks.dat filter=lfs diff=lfs merge=lfs -text
+RWS-master/Assets/Game/Scenes/TerrainData/Terrain_0_0.asset filter=lfs diff=lfs merge=lfs -text
+UnityDroneSim-master/Assets/3rd-Party/ML-Agents/Plugins/ProtoBuffer/runtimes/linux/native/libgrpc_csharp_ext.x64.so filter=lfs diff=lfs merge=lfs -text
+UnityDroneSim-master/Assets/3rd-Party/ML-Agents/Plugins/ProtoBuffer/runtimes/linux/native/libgrpc_csharp_ext.x86.so filter=lfs diff=lfs merge=lfs -text
