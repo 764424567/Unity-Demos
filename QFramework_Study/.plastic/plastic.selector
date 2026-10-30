@@ -1,0 +1,4 @@
+repository "QFramework_Study@tj_764424567_qq_com@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"

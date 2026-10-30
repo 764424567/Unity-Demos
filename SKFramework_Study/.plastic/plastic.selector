@@ -1,0 +1,4 @@
+repository "SKFramework_Study@tj_zcst_working@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
