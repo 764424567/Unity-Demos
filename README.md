@@ -17,162 +17,168 @@
 
 ### 核心功能 Demo（55）
 
-| Demo | 用途说明 | Unity 版本 | 体积 |
+| Demo | 用途说明 | Unity 版本 | 远端文件 |
 | --- | --- | --- | --- |
-| [Demo6.0_SRP_URP](Demo6.0_SRP_URP/) | Unity 6 URP 渲染管线 + DJI FPV 示例 | 6000.0.0f1c2 | 149.0 MB |
-| [DemoLinux](DemoLinux/) | Linux 平台构建配置空工程 | 2018.4.0f1 | 0.0 MB |
-| [Demo_2018.4.0_richang](Demo_2018.4.0_richang/) | Unity 2018.4 常规配置基线工程 | 2018.4.0f1 | 0.0 MB |
-| [Demo_2021.2.7](Demo_2021.2.7/) | 综合技术验证工程（多插件集成） | 2021.2.7f1c1 | 1594.1 MB |
-| [Demo_20230707](Demo_20230707/) | 综合技术验证工程 2（行为树 / AI / 曲线 / FPS） | 2021.3.15f1c1 | 1542.1 MB |
-| [Demo_4.7Par](Demo_4.7Par/) | 粒子烟雾效果 Demo | 2019.4.7f1 | 5.6 MB |
-| [Demo_6.0_HDRP](Demo_6.0_HDRP/) | Unity 6 HDRP 第一/第三人称控制器示例 | 6000.0.0f1c2 | 221.2 MB |
-| [Demo_AndroidAndUnityInteraction](Demo_AndroidAndUnityInteraction/) | 安卓端与 Unity 端相互传递消息的小 Demo | 5.6.1f1 | 0.2 MB |
-| [Demo_AssetBundle](Demo_AssetBundle/) | AssetBundle 打包与加载演示 | 5.6.1f1 | 75.5 MB |
-| [Demo_Daily](Demo_Daily/) | 日常技术积累合集（按日期归档） | 2021.3.15f1c1 | 64.2 MB |
-| [Demo_Daily_6.0](Demo_Daily_6.0/) | 数字人 / 虚拟人交互 Demo | 6000.0.0f1c2 | 143.4 MB |
-| [Demo_Decoration](Demo_Decoration/) | 房地产 VR 场景 Demo | 2019.4.24f1c1 | 6632.4 MB |
-| [Demo_DrawImg](Demo_DrawImg/) | Unity 读图与热力图绘制 Demo | 5.6.1f1 | 216.9 MB |
-| [Demo_Exam](Demo_Exam/) | 在线考试系统 Demo | 2019.4.9f1 | 11.8 MB |
-| [Demo_GetIpPos](Demo_GetIpPos/) | IP 定位与天气查询 Demo | 2018.1.0f2 | 1.3 MB |
-| [Demo_GetTime](Demo_GetTime/) | 获取游戏时间并显示 Demo | 5.6.1f1 | 0.1 MB |
-| [Demo_Hybridclr](Demo_Hybridclr/) | HybridCLR 热更新 DLL 加载 Demo | 2021.3.15f1c1 | 846.6 MB |
-| [Demo_Input_Plugin_Drone](Demo_Input_Plugin_Drone/) | Rewired 输入插件与无人机操控 Demo | 2021.3.15f1c1 | 70.0 MB |
-| [Demo_KGFMap](Demo_KGFMap/) | KGFMap 2D 地图系统 Demo | 2018.4.0f1 | 28.8 MB |
-| [Demo_Login](Demo_Login/) | 登录流程与数据库存取 Demo | 5.6.1f1 | 1.4 MB |
-| [Demo_LoopScrollRect](Demo_LoopScrollRect/) | 无限循环 ScrollRect 列表 Demo | 5.6.4f1 | 1.4 MB |
-| [Demo_LuaStudy](Demo_LuaStudy/) | XLua 热更新与 Lua 交互学习 Demo | 2018.4.0f1 | 16.2 MB |
-| [Demo_MVCTest](Demo_MVCTest/) | Unity MVC 模式与手绘墙体/Mesh 测试 | 5.6.1f1 | 3.3 MB |
-| [Demo_NetworkRelayControl](Demo_NetworkRelayControl/) | PJLink 投影仪串口中控 Demo | 2018.4.12f1 | 2.2 MB |
-| [Demo_Particle](Demo_Particle/) | FogVolume 体积雾与烟雾粒子 Demo | 2018.4.0f1 | 1.4 MB |
-| [Demo_ParticleShow](Demo_ParticleShow/) | Shuriken Salvo 粒子齐射特效 Demo | 5.6.1f1 | 26.5 MB |
-| [Demo_PlatformInterface](Demo_PlatformInterface/) | 网页/大屏平台双向对接 Demo | 2019.4.7f1 | 59.5 MB |
-| [Demo_PlayerMove](Demo_PlayerMove/) | 角色移动与道路场景 Demo | 2018.4.0f1 | 7.9 MB |
-| [Demo_Plugin2018.1.0f2](Demo_Plugin2018.1.0f2/) | Exploder 破坏插件 Demo | 2018.1.0f2 | 27.5 MB |
-| [Demo_PointCloud](Demo_PointCloud/) | 点云加载、渲染与测量 Demo | 2019.4.24f1c1 | 259.5 MB |
-| [Demo_Questions](Demo_Questions/) | 题库答题系统 v1 / v2 对照 Demo | 2019.4.7f1 | 3.8 MB |
-| [Demo_Reflection](Demo_Reflection/) | C# 反射调用与外部 DLL 加载 Demo | 2019.2.8f1 | 0.1 MB |
-| [Demo_SKFramework](Demo_SKFramework/) | SKFramework 框架源码与示例 | 2021.3.15f1c1 | 226.7 MB |
-| [Demo_SendDataDLL](Demo_SendDataDLL/) | 通过 DLL 发送数据 Demo | 5.6.1f1 | 0.7 MB |
-| [Demo_SerialPort](Demo_SerialPort/) | 串口通信与 Socket 客户端 Demo | 5.6.1f1 | 0.6 MB |
-| [Demo_SerialPort_2019.3.8](Demo_SerialPort_2019.3.8/) | 串口通信 Demo（Unity 2019.3.8 版本） | 2019.3.8f1 | 0.1 MB |
-| [Demo_Signed](Demo_Signed/) | 签名留言 Demo（手写签名 + 截图插件） | 2019.3.2f1 | 18.7 MB |
-| [Demo_SplitModels](Demo_SplitModels/) | 模型切割 Demo（GameFramework + HybridCLR） | 2021.3.15f1c1 | 1119.6 MB |
-| [Demo_SqliteTest](Demo_SqliteTest/) | SQLite 数据库存取与登录 Demo | 5.6.1f1 | 191.4 MB |
-| [Demo_T2019.4](Demo_T2019.4/) | 六面顶压机工业仿真 Demo | 2019.4.9f1 | 158.7 MB |
-| [Demo_TTS](Demo_TTS/) | 语音转文字（TTS）Demo | 2021.3.15f1c1 | 35.4 MB |
-| [Demo_Test](Demo_Test/) | Unity 功能测试合集（多年度积累） | 5.6.1f1 | 504.1 MB |
-| [Demo_TestPlugin](Demo_TestPlugin/) | Exploder 插件与碰撞体测试 Demo | 2018.1.0f2 | 27.5 MB |
-| [Demo_TransformExtension](Demo_TransformExtension/) | Transform 扩展与自定义 Inspector Demo | 2021.3.15f1c1 | 0.3 MB |
-| [Demo_UChart](Demo_UChart/) | UChart 数据图表 Demo（第三方插件） | 未标注 | 23.1 MB |
-| [Demo_UDP](Demo_UDP/) | UDP 端口通信 Demo | 5.6.1f1 | 2.2 MB |
-| [Demo_UITest](Demo_UITest/) | UI 测试占位工程 | 未标注 | 0.0 MB |
-| [Demo_UnityFormations](Demo_UnityFormations/) | Texture Formation 队形渲染 Demo | 2021.2.7f1c1 | 7.0 MB |
-| [Demo_WEBGLLoad2021](Demo_WEBGLLoad2021/) | WebGL 与外部数据交互 Demo（2021 版） | 2021.3.15f1 | 8.4 MB |
-| [Demo_WEBGLLoadFile](Demo_WEBGLLoadFile/) | WebGL 与 PC 打开本地文件 Demo | 2019.4.9f1 | 8.3 MB |
-| [Demo_WaterPlugins](Demo_WaterPlugins/) | 水面特效合集 Demo | 2021.3.15f1c1 | 4288.3 MB |
-| [Demo_WebGLTemplate](Demo_WebGLTemplate/) | WebGL 自定义模板与编辑器工具 Demo | 2019.4.7f1 | 1.6 MB |
-| [Demo_WebGLTest](Demo_WebGLTest/) | WebGL 综合测试（资源打包 / 通信 / 相机） | 2018.4.0f1 | 689.1 MB |
-| [Demo_WebUpload](Demo_WebUpload/) | WebGL 网页数据上传与视频播放 Demo | 2019.4.24f1c1 | 7.8 MB |
-| [Demo_tuanjie](Demo_tuanjie/) | 团结引擎（Tuanjie）空工程基线 | 2022.3.2t3 | 0.1 MB |
+| [Demo6.0_SRP_URP](Demo6.0_SRP_URP/) | Unity 6 URP 渲染管线 + DJI FPV 示例 | `6000.0.0f1c2` | 175 |
+| [DemoLinux](DemoLinux/) | Linux 平台构建配置空工程 | `2018.4.0f1` | 24 |
+| [Demo_2018.4.0_richang](Demo_2018.4.0_richang/) | Unity 2018.4 常规配置基线工程 | `2018.4.0f1` | 24 |
+| [Demo_2021.2.7](Demo_2021.2.7/) | 综合技术验证工程（多插件集成） | `2021.2.7f1c1` | 2302 |
+| [Demo_20230707](Demo_20230707/) | 综合技术验证工程 2（行为树 / AI / 曲线 / FPS） | `2021.3.15f1c1` | 5814 |
+| [Demo_4.7Par](Demo_4.7Par/) | 粒子烟雾效果 Demo | `2019.4.7f1` | 53 |
+| [Demo_6.0_HDRP](Demo_6.0_HDRP/) | Unity 6 HDRP 第一/第三人称控制器示例 | `6000.0.0f1c2` | 1069 |
+| [Demo_AndroidAndUnityInteraction](Demo_AndroidAndUnityInteraction/) | 安卓端与 Unity 端相互传递消息的小 Demo | `5.6.1f1` | 37 |
+| [Demo_AssetBundle](Demo_AssetBundle/) | AssetBundle 打包与加载演示 | `5.6.1f1` | 482 |
+| [Demo_Daily](Demo_Daily/) | 日常技术积累合集（按日期归档） | `2021.3.15f1c1` | 2267 |
+| [Demo_Daily_6.0](Demo_Daily_6.0/) | 数字人 / 虚拟人交互 Demo | `6000.0.0f1c2` | 827 |
+| [Demo_Decoration](Demo_Decoration/) | 房地产 VR 场景 Demo | `2019.4.24f1c1` | 76213 |
+| [Demo_DrawImg](Demo_DrawImg/) | Unity 读图与热力图绘制 Demo | `5.6.1f1` | 1526 |
+| [Demo_Exam](Demo_Exam/) | 在线考试系统 Demo | `2019.4.9f1` | 118 |
+| [Demo_GetIpPos](Demo_GetIpPos/) | IP 定位与天气查询 Demo | `2018.1.0f2` | 60 |
+| [Demo_GetTime](Demo_GetTime/) | 获取游戏时间并显示 Demo | `5.6.1f1` | 24 |
+| [Demo_Hybridclr](Demo_Hybridclr/) | HybridCLR 热更新 DLL 加载 Demo | `2021.3.15f1c1` | 10547 |
+| [Demo_Input_Plugin_Drone](Demo_Input_Plugin_Drone/) | Rewired 输入插件与无人机操控 Demo | `2021.3.15f1c1` | 1496 |
+| [Demo_KGFMap](Demo_KGFMap/) | KGFMap 2D 地图系统 Demo | `2018.4.0f1` | 1062 |
+| [Demo_Login](Demo_Login/) | 登录流程与数据库存取 Demo | `5.6.1f1` | 50 |
+| [Demo_LoopScrollRect](Demo_LoopScrollRect/) | 无限循环 ScrollRect 列表 Demo | `5.6.4f1` | 67 |
+| [Demo_LuaStudy](Demo_LuaStudy/) | XLua 热更新与 Lua 交互学习 Demo | `2018.4.0f1` | 511 |
+| [Demo_MVCTest](Demo_MVCTest/) | Unity MVC 模式与手绘墙体/Mesh 测试 | `5.6.1f1` | 70 |
+| [Demo_NetworkRelayControl](Demo_NetworkRelayControl/) | PJLink 投影仪串口中控 Demo | `2018.4.12f1` | 44 |
+| [Demo_Particle](Demo_Particle/) | FogVolume 体积雾与烟雾粒子 Demo | `2018.4.0f1` | 49 |
+| [Demo_ParticleShow](Demo_ParticleShow/) | Shuriken Salvo 粒子齐射特效 Demo | `5.6.1f1` | 351 |
+| [Demo_PlatformInterface](Demo_PlatformInterface/) | 网页/大屏平台双向对接 Demo | `2019.4.7f1` | 197 |
+| [Demo_PlayerMove](Demo_PlayerMove/) | 角色移动与道路场景 Demo | `2018.4.0f1` | 202 |
+| [Demo_Plugin2018.1.0f2](Demo_Plugin2018.1.0f2/) | Exploder 破坏插件 Demo | `2018.1.0f2` | 545 |
+| [Demo_PointCloud](Demo_PointCloud/) | 点云加载、渲染与测量 Demo | `2019.4.24f1c1` | 243 |
+| [Demo_Questions](Demo_Questions/) | 题库答题系统 v1 / v2 对照 Demo | `2019.4.7f1` | 130 |
+| [Demo_Reflection](Demo_Reflection/) | C# 反射调用与外部 DLL 加载 Demo | `2019.2.8f1` | 34 |
+| [Demo_SKFramework](Demo_SKFramework/) | SKFramework 框架源码与示例 | `2021.3.15f1c1` | 776 |
+| [Demo_SendDataDLL](Demo_SendDataDLL/) | 通过 DLL 发送数据 Demo | `5.6.1f1` | 29 |
+| [Demo_SerialPort](Demo_SerialPort/) | 串口通信与 Socket 客户端 Demo | `5.6.1f1` | 40 |
+| [Demo_SerialPort_2019.3.8](Demo_SerialPort_2019.3.8/) | 串口通信 Demo（Unity 2019.3.8 版本） | `2019.3.8f1` | 29 |
+| [Demo_Signed](Demo_Signed/) | 签名留言 Demo（手写签名 + 截图插件） | `2019.3.2f1` | 203 |
+| [Demo_SplitModels](Demo_SplitModels/) | 模型切割 Demo（GameFramework + HybridCLR） | `2021.3.15f1c1` | 12799 |
+| [Demo_SqliteTest](Demo_SqliteTest/) | SQLite 数据库存取与登录 Demo | `5.6.1f1` | 239 |
+| [Demo_T2019.4](Demo_T2019.4/) | 六面顶压机工业仿真 Demo | `2019.4.9f1` | 30 |
+| [Demo_TTS](Demo_TTS/) | 语音转文字（TTS）Demo | `2021.3.15f1c1` | 438 |
+| [Demo_Test](Demo_Test/) | Unity 功能测试合集（多年度积累） | `5.6.1f1` | 3558 |
+| [Demo_TestPlugin](Demo_TestPlugin/) | Exploder 插件与碰撞体测试 Demo | `2018.1.0f2` | 554 |
+| [Demo_TransformExtension](Demo_TransformExtension/) | Transform 扩展与自定义 Inspector Demo | `2021.3.15f1c1` | 50 |
+| [Demo_UChart](Demo_UChart/) | UChart 数据图表 Demo（第三方插件） | `未标注` | 770 |
+| [Demo_UDP](Demo_UDP/) | UDP 端口通信 Demo | `5.6.1f1` | 42 |
+| [Demo_UITest](Demo_UITest/) | UI 测试占位工程 | `未标注` | 6 |
+| [Demo_UnityFormations](Demo_UnityFormations/) | Texture Formation 队形渲染 Demo | `2021.2.7f1c1` | 113 |
+| [Demo_WEBGLLoad2021](Demo_WEBGLLoad2021/) | WebGL 与外部数据交互 Demo（2021 版） | `2021.3.15f1` | 41 |
+| [Demo_WEBGLLoadFile](Demo_WEBGLLoadFile/) | WebGL 与 PC 打开本地文件 Demo | `2019.4.9f1` | 54 |
+| [Demo_WaterPlugins](Demo_WaterPlugins/) | 水面特效合集 Demo | `2021.3.15f1c1` | 1854 |
+| [Demo_WebGLTemplate](Demo_WebGLTemplate/) | WebGL 自定义模板与编辑器工具 Demo | `2019.4.7f1` | 48 |
+| [Demo_WebGLTest](Demo_WebGLTest/) | WebGL 综合测试（资源打包 / 通信 / 相机） | `2018.4.0f1` | 811 |
+| [Demo_WebUpload](Demo_WebUpload/) | WebGL 网页数据上传与视频播放 Demo | `2019.4.24f1c1` | 46 |
+| [Demo_tuanjie](Demo_tuanjie/) | 团结引擎（Tuanjie）空工程基线 | `2022.3.2t3` | 34 |
 
 ### AI 大模型接入（2）
 
-| Demo | 用途说明 | Unity 版本 | 体积 |
+| Demo | 用途说明 | Unity 版本 | 远端文件 |
 | --- | --- | --- | --- |
-| [DeekSeek-Unity](DeekSeek-Unity/) | DeepSeek / 本地大模型接入 Unity Demo | 2021.3.15f1c1 | 0.2 MB |
-| [DemoChat](DemoChat/) | ChatGPT 接入 Unity Demo（含编辑器窗口） | 2022.3.57f1c2 | 0.9 MB |
+| [DeekSeek-Unity](DeekSeek-Unity/) | DeepSeek / 本地大模型接入 Unity Demo | `2021.3.15f1c1` | 51 |
+| [DemoChat](DemoChat/) | ChatGPT 接入 Unity Demo（含编辑器窗口） | `2022.3.57f1c2` | 39 |
 
 ### 3D 展示与效果（3）
 
-| Demo | 用途说明 | Unity 版本 | 体积 |
+| Demo | 用途说明 | Unity 版本 | 远端文件 |
 | --- | --- | --- | --- |
-| [3DImage](3DImage/) | DOTween Pro 补间动画示例合集 | 2022.3.57f1c2 | 11.8 MB |
-| [SmokePark](SmokePark/) | 烟雾场景 Demo（高亮描边 / 动态天空） | 2022.3.57f1c2 | 136.1 MB |
-| [U3DAvatar](U3DAvatar/) | 3D 数字人 Avatar 换装 Demo | 2018.4.0f1 | 94.2 MB |
+| [3DImage](3DImage/) | DOTween Pro 补间动画示例合集 | `2022.3.57f1c2` | 395 |
+| [SmokePark](SmokePark/) | 烟雾场景 Demo（高亮描边 / 动态天空） | `2022.3.57f1c2` | 1794 |
+| [U3DAvatar](U3DAvatar/) | 3D 数字人 Avatar 换装 Demo | `2018.4.0f1` | 571 |
 
 ### 游戏原型（2）
 
-| Demo | 用途说明 | Unity 版本 | 体积 |
+| Demo | 用途说明 | Unity 版本 | 远端文件 |
 | --- | --- | --- | --- |
-| [Game2048](Game2048/) | 2048 小游戏 Demo | 2022.3.57f1c2 | 0.2 MB |
-| [Game_Parkour](Game_Parkour/) | Unity 开发跑酷游戏 Demo | 5.6.1f1 | 8.2 MB |
+| [Game2048](Game2048/) | 2048 小游戏 Demo | `2022.3.57f1c2` | 44 |
+| [Game_Parkour](Game_Parkour/) | Unity 开发跑酷游戏 Demo | `5.6.1f1` | 200 |
 
 ### 插件集成 Demo（4）
 
-| Demo | 用途说明 | Unity 版本 | 体积 |
+| Demo | 用途说明 | Unity 版本 | 远端文件 |
 | --- | --- | --- | --- |
-| [Plugin_DoozyUI](Plugin_DoozyUI/) | DoozyUI 插件示例 Demo | 2018.1.0f2 | 69.9 MB |
-| [Plugin_MultipleGraphAndChartUIPack](Plugin_MultipleGraphAndChartUIPack/) | 多图表数据可视化 UI 包 Demo | 2019.4.7f1 | 72.9 MB |
-| [Plugin_XCharts](Plugin_XCharts/) | XCharts 图表插件 Demo | 2018.3.7f1 | 51.1 MB |
-| [XCharts_Demo](XCharts_Demo/) | XCharts 官方示例 Demo | 2019.4.9f1 | 8.5 MB |
+| [Plugin_DoozyUI](Plugin_DoozyUI/) | DoozyUI 插件示例 Demo | `2018.1.0f2` | 7555 |
+| [Plugin_MultipleGraphAndChartUIPack](Plugin_MultipleGraphAndChartUIPack/) | 多图表数据可视化 UI 包 Demo | `2019.4.7f1` | 2939 |
+| [Plugin_XCharts](Plugin_XCharts/) | XCharts 图表插件 Demo | `2018.3.7f1` | 469 |
+| [XCharts_Demo](XCharts_Demo/) | XCharts 官方示例 Demo | `2019.4.9f1` | 959 |
 
 ### 框架与平台对接（1）
 
-| Demo | 用途说明 | Unity 版本 | 体积 |
+| Demo | 用途说明 | Unity 版本 | 远端文件 |
 | --- | --- | --- | --- |
-| [Frame_TestVRFrame](Frame_TestVRFrame/) | VR 帧同步与平台数据上传测试工程 | 2019.3.8f1 | 229.5 MB |
+| [Frame_TestVRFrame](Frame_TestVRFrame/) | VR 帧同步与平台数据上传测试工程 | `2019.3.8f1` | 1786 |
 
 ### 工业仿真（3）
 
-| Demo | 用途说明 | Unity 版本 | 体积 |
+| Demo | 用途说明 | Unity 版本 | 远端文件 |
 | --- | --- | --- | --- |
-| [FactoryScene_URP](FactoryScene_URP/) | URP 工厂场景 Demo（水体 / 动态天空 / 动态树） | 2021.3.2f1c1 | 1745.6 MB |
-| [PackagerDemo](PackagerDemo/) | 航空发动机结构拆解演示 Demo | 2021.3.15f1c1 | 121.0 MB |
-| [XD_Drone](XD_Drone/) | 无人机巡检仿真 Demo（地形 / FPV） | 2021.3.15f1c1 | 1365.9 MB |
+| [FactoryScene_URP](FactoryScene_URP/) | URP 工厂场景 Demo（水体 / 动态天空 / 动态树） | `2021.3.2f1c1` | 3105 |
+| [PackagerDemo](PackagerDemo/) | 航空发动机结构拆解演示 Demo | `2021.3.15f1c1` | 157 |
+| [XD_Drone](XD_Drone/) | 无人机巡检仿真 Demo（地形 / FPV） | `2021.3.15f1c1` | 370 |
 
 ### 地图与地理（1）
 
-| Demo | 用途说明 | Unity 版本 | 体积 |
+| Demo | 用途说明 | Unity 版本 | 远端文件 |
 | --- | --- | --- | --- |
-| [MapLoad](MapLoad/) | 多地图源加载 Demo（百度 / 高德 / Cesium） | 2021.3.15f1c1 | 0.3 MB |
+| [MapLoad](MapLoad/) | 多地图源加载 Demo（百度 / 高德 / Cesium） | `2021.3.15f1c1` | 80 |
 
 ### AR 增强（1）
 
-| Demo | 用途说明 | Unity 版本 | 体积 |
+| Demo | 用途说明 | Unity 版本 | 远端文件 |
 | --- | --- | --- | --- |
-| [EasyAR](EasyAR/) | EasyAR AR 效果 Demo | 6000.0.0f1c2 | 0.4 MB |
+| [EasyAR](EasyAR/) | EasyAR AR 效果 Demo | `6000.0.0f1c2` | 53 |
 
 ### 题库与考试（2）
 
-| Demo | 用途说明 | Unity 版本 | 体积 |
+| Demo | 用途说明 | Unity 版本 | 远端文件 |
 | --- | --- | --- | --- |
-| [Answer](Answer/) | 答题交互控制最小 Demo | 2022.3.57f1c2 | 9.6 MB |
-| [AnswerModule](AnswerModule/) | 考试题库模块示例（Excel 导入 + IOC） | 2019.4.7f1 | 3.0 MB |
+| [Answer](Answer/) | 答题交互控制最小 Demo | `2022.3.57f1c2` | 43 |
+| [AnswerModule](AnswerModule/) | 考试题库模块示例（Excel 导入 + IOC） | `2019.4.7f1` | 101 |
 
 ### 开源项目精读（6）
 
-| Demo | 用途说明 | Unity 版本 | 体积 |
+| Demo | 用途说明 | Unity 版本 | 远端文件 |
 | --- | --- | --- | --- |
-| [GF_GameDemo](GF_GameDemo/) | GameFramework StarForce 官方示例 Demo | 未标注 | 483.0 MB |
-| [QFramework_Study](QFramework_Study/) | QFramework 框架学习 Demo（含官方全部示例） | 6000.0.23f1c1 | 13.0 MB |
-| [RWS-master](RWS-master/) | RWS FPV 竞速翼模拟器 Demo（含 Photon 联机） | 2021.3.15f1c1 | 767.4 MB |
-| [SKFramework_Study](SKFramework_Study/) | SKFramework 框架学习与资源打包 Demo | 6000.0.23f1c1 | 74.7 MB |
-| [UnityDroneSim-master](UnityDroneSim-master/) | Unity ML-Agents 无人机仿真 Demo | 2018.2.5f1 | 65.5 MB |
-| [cesium-unity-samples-1.11.1](cesium-unity-samples-1.11.1/) | Cesium for Unity 官方示例集 | 2021.3.15f1c1 | 89.4 MB |
+| [GF_GameDemo](GF_GameDemo/) | GameFramework StarForce 官方示例 Demo | `未标注` | 2255 |
+| [QFramework_Study](QFramework_Study/) | QFramework 框架学习 Demo（含官方全部示例） | `6000.0.23f1c1` | 2350 |
+| [RWS-master](RWS-master/) | RWS FPV 竞速翼模拟器 Demo（含 Photon 联机） | `2021.3.15f1c1` | 1955 |
+| [SKFramework_Study](SKFramework_Study/) | SKFramework 框架学习与资源打包 Demo | `6000.0.23f1c1` | 470 |
+| [UnityDroneSim-master](UnityDroneSim-master/) | Unity ML-Agents 无人机仿真 Demo | `2018.2.5f1` | 778 |
+| [cesium-unity-samples-1.11.1](cesium-unity-samples-1.11.1/) | Cesium for Unity 官方示例集 | `2021.3.15f1c1` | 486 |
 
 ### 天气与环境（3）
 
-| Demo | 用途说明 | Unity 版本 | 体积 |
+| Demo | 用途说明 | Unity 版本 | 远端文件 |
 | --- | --- | --- | --- |
-| [Weather](Weather/) | 天气查询 Demo | 2022.3.57f1c2 | 1.2 MB |
-| [WeatherDemoAssets](WeatherDemoAssets/) | 天气演示素材资源包 | 未标注 | 0.9 MB |
-| [WeatherPlugin_UniStorm](WeatherPlugin_UniStorm/) | UniStorm 天气系统插件 Demo | 2021.3.15f1c1 | 218.8 MB |
+| [Weather](Weather/) | 天气查询 Demo | `2022.3.57f1c2` | 41 |
+| [WeatherDemoAssets](WeatherDemoAssets/) | 天气演示素材资源包 | `未标注` | 13 |
+| [WeatherPlugin_UniStorm](WeatherPlugin_UniStorm/) | UniStorm 天气系统插件 Demo | `2021.3.15f1c1` | 957 |
+
+### 技术专项（1）
+
+| Demo | 用途说明 | Unity 版本 | 远端文件 |
+| --- | --- | --- | --- |
+| [Project_OpenCVforFace](Project_OpenCVforFace/) | OpenCV + Dlib 人脸检测 / 关键点 / 虚拟口罩 Demo | `5.6.1f1` | 3076 |
 
 ### 专项验证（2）
 
-| Demo | 用途说明 | Unity 版本 | 体积 |
+| Demo | 用途说明 | Unity 版本 | 远端文件 |
 | --- | --- | --- | --- |
-| [PSE](PSE/) | 地图选点与加载 Demo（PSE） | 2017.1.0f3 | 9.6 MB |
-| [Route](Route/) | 路线规划占位工程 | 2021.3.15f1c1 | 0.1 MB |
+| [PSE](PSE/) | 地图选点与加载 Demo（PSE） | `2017.1.0f3` | 48 |
+| [Route](Route/) | 路线规划占位工程 | `2021.3.15f1c1` | 29 |
 
 ### 其他 Demo（4）
 
-| Demo | 用途说明 | Unity 版本 | 体积 |
+| Demo | 用途说明 | Unity 版本 | 远端文件 |
 | --- | --- | --- | --- |
-| [ChangeClothe](ChangeClothe/) | 角色换装系统 Demo | 2022.3.57f1c2 | 94.3 MB |
-| [FPS](FPS/) | FPS 战斗 Demo（状态机 / 枪械 / 血量） | 2022.3.57f1c2 | 135.2 MB |
-| [FPSMicrogame](FPSMicrogame/) | FPS Microgame 官方示例 Demo | 2019.4.9f1 | 161.3 MB |
-| [ParkourGame](ParkourGame/) | 跑酷游戏 Demo（Unity 2021.3 版本） | 2021.3.15f1c1 | 8.3 MB |
+| [ChangeClothe](ChangeClothe/) | 角色换装系统 Demo | `2022.3.57f1c2` | 574 |
+| [FPS](FPS/) | FPS 战斗 Demo（状态机 / 枪械 / 血量） | `2022.3.57f1c2` | 651 |
+| [FPSMicrogame](FPSMicrogame/) | FPS Microgame 官方示例 Demo | `2019.4.9f1` | 1590 |
+| [ParkourGame](ParkourGame/) | 跑酷游戏 Demo（Unity 2021.3 版本） | `2021.3.15f1c1` | 214 |
 
 ## 🚀 使用说明
 
