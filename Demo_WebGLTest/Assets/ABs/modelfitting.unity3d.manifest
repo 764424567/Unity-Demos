@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 4196143737
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 52057a26df1d0f64835a06422f169ef6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 68ed2168e6b5e522bd9dff562f20e774
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/fenghehou.prefab
+- Assets/Prefabs/setp4_09.prefab
+- Assets/Prefabs/setp4_07.prefab
+- Assets/Prefabs/setp4_04.prefab
+- Assets/Prefabs/fengheqian.prefab
+- Assets/Prefabs/setp4_01.prefab
+- Assets/Prefabs/setp4_03.prefab
+- Assets/Prefabs/setp4_05.prefab
+- Assets/Prefabs/setp4_08.prefab
+- Assets/Prefabs/setp4_02.prefab
+- Assets/Prefabs/setp4_06.prefab
+Dependencies: []

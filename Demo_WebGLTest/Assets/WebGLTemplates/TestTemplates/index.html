@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>牧场智能化项目</title>
+    <link rel="shortcut icon" href="TemplateData/favicon.ico">
+    <link rel="stylesheet" href="TemplateData/style.css">
+    <script src="TemplateData/UnityProgress.js"></script>
+    <script src="Build/UnityLoader.js"></script>
+	<script>
+      var gameInstance = UnityLoader.instantiate("gameContainer", "Build/WisdomRanch.json", {onProgress: UnityProgress});
+      function Reset()
+      {
+          var canvas = document.getElementById("#canvas");//获取#canvas
+          var h=  document.documentElement.clientHeight;//获取body可见区域高度
+          var w =  document.documentElement.clientWidth;//获取body可见区域高度
+          var scale = 1080/1920;
+          if (w/h > scale) {canvas.height=h;canvas.width=h*scale;}
+          if (w/h < scale) {canvas.height=w/scale;canvas.width=w;}
+      }
+    </script>
+  </head>
+  <body onload="Reset()" onresize="Reset()">
+    <div class="webgl-content" style="width: 80%; height: 90%">
+      <div id="gameContainer" style="width: 100%; height: 100%"></div>
+    </div>
+  </body>
+</html>
