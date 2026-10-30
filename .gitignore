@@ -28,7 +28,6 @@
 sysinfo.txt
 *.apk
 *.aab
-*.app
 crashlytics-build.properties
 .DS_Store
 Thumbs.db
@@ -57,3 +56,7 @@ Demo_SplitModels.zip
 Demo_SendDataDLL.zip
 Demo_SerialPort_2019.3.8.zip
 Route.rar
+
+# ===== HybridCLR / Il2Cpp local build output (all depths) =====
+**/HybridCLRData/LocalIl2CppData/
+**/HybridCLRData/LocalIl2CppData-WindowsEditor/

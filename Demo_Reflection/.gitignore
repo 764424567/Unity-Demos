@@ -34,3 +34,7 @@ crashlytics-build.properties
 # OS
 .DS_Store
 Thumbs.db
+
+# ===== HybridCLR / Il2Cpp local build output =====
+HybridCLRData/LocalIl2CppData/
+HybridCLRData/LocalIl2CppData-WindowsEditor/
