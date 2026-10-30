@@ -1,0 +1,217 @@
+fileFormatVersion: 2
+guid: 28f3e61ab30f7264a8478bb8096a2d25
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FrontColor
+    second: {fileID: 2100000, guid: 9fbdf35b326e22e4a9b0d63e20bc519c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lisanne_Bandana
+    second: {fileID: 2100000, guid: 872733286d4596b42b0151ec344c869e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lisanne_Boot_Sole_01
+    second: {fileID: 2100000, guid: a5892d48b3d6eed4980be83c1f26dfa5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lisanne_Boot_Sole_02
+    second: {fileID: 2100000, guid: 66e037b093745c949a6f9c6e22ecdad2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lisanne_Boots
+    second: {fileID: 2100000, guid: 25e58bbe9b378bc47ba8b83f85e95581, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lisanne_Bracelet
+    second: {fileID: 2100000, guid: c3c35e51bf5c946418653056ecc5eac7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lisanne_Brush
+    second: {fileID: 2100000, guid: f481940c94cb13847934b9976123aac8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lisanne_Brush_Handle
+    second: {fileID: 2100000, guid: 7de2fbbbf806d4148b1030702846d27a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lisanne_Brush_Metal
+    second: {fileID: 2100000, guid: 8d33b4fd5e5d3c74585cf7a4d602a101, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lisanne_Caulk
+    second: {fileID: 2100000, guid: b0e3a55d396c0594c82879954289d235, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lisanne_Caulkgun
+    second: {fileID: 2100000, guid: f1a56584a136be54289c913e7ec0dc0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lisanne_Eraser
+    second: {fileID: 2100000, guid: 1cb611f87ea82a443ae1489dc031b491, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lisanne_Hair
+    second: {fileID: 2100000, guid: 354d322fd0f7fb849bcdbf387d72fe75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lisanne_Hammer
+    second: {fileID: 2100000, guid: 8283e2d96c7c75544be8ead64ae23d2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lisanne_Metal
+    second: {fileID: 2100000, guid: 81340bcc2cf8e1b4a841d3af6935add4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lisanne_Necklace
+    second: {fileID: 2100000, guid: 85d432f33b45e384f8eb3bd5b4200c85, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lisanne_Overalls
+    second: {fileID: 2100000, guid: 8bc6433836ba77e4886f34d82fc37745, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lisanne_Shirt_Blue
+    second: {fileID: 2100000, guid: 2eed05e0374c3e74f930c8118ae6966d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lisanne_Skin
+    second: {fileID: 2100000, guid: f706d1d39612f3e4fa5a7e6e4ec34c7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lisanne_Tool_Bag_01
+    second: {fileID: 2100000, guid: a0c98a1025ab88d43a19b97ece7ef59f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lisanne_Tool_Bag_02
+    second: {fileID: 2100000, guid: 31d3bf652599a234bab183f71134d6c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lisanne_Tool_Bag_03
+    second: {fileID: 2100000, guid: 96fa905919c31204c8fde3c082bc0432, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lisanne_Tools
+    second: {fileID: 2100000, guid: 9072b722a4c34e149a6b84cfe711f1ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lisanne_Watch
+    second: {fileID: 2100000, guid: 6c8ac511d25b68e4e8bd4c7ff47f79de, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
