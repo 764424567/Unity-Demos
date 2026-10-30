@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 34720d5f14b2fc24ab308f6a3089313d
+timeCreated: 1474436152
+licenseType: Store
+PluginImporter:
+  serializedVersion: 1
+  iconMap: {}
+  executionOrder: {}
+  isPreloaded: 0
+  platformData:
+    Any:
+      enabled: 0
+      settings: {}
+    Editor:
+      enabled: 0
+      settings:
+        DefaultValueInitialized: true
+    WindowsStoreApps:
+      enabled: 1
+      settings:
+        CPU: x64
+        SDK: SDK81
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
