@@ -7,10 +7,10 @@ public class WebControl : MonoBehaviour
 {
     public static WebControl Instance;
 
-    private string m_url = "http://211.69.33.20";
+    private string m_url = "http://YOUR_INTERNAL_SERVER";
     private string ticket = "cf2d9601ceb2497a96fbc920a34a55d9";
-    private string appid = "FA176490-C0C2-4BB3-8C06-FBC513C24ECF";
-    private string secret = "EC224D5F-B37C-4768-A39E-0F736361815C";
+    private string appid = "YOUR_APPID";
+    private string secret = "YOUR_SECRET";
     private string signature;
 
     void Awake()

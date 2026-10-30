@@ -14,8 +14,8 @@ public class WebCommunication : MonoBehaviour
     public Image preview;
     public Texture2D tx;
     public GameObject m_Cube;
-    string url = "http://3d-stereovision.com:800/zut/fashion/Experiment/recvDataFromExperiment";
-    string url1 = "http://3d-stereovision.com:800/zut/fashion/Experiment/experimentize";
+    string url = "http://YOUR_API_HOST:800/zut/fashion/Experiment/recvDataFromExperiment";
+    string url1 = "http://YOUR_API_HOST:800/zut/fashion/Experiment/experimentize";
 
     void OnGUI()
     {
@@ -30,7 +30,7 @@ public class WebCommunication : MonoBehaviour
         }
         if (GUI.Button(new Rect(0, 200, 100, 35), "GetImg"))
         {
-            StartCoroutine(GetImg("http://3d-stereovision.com:800/zut/fashion/public/upload/structure/a3f390d88e4c41f2747bfa2f1b5f87db/5ef9529b5b156.jpg"));
+            StartCoroutine(GetImg("http://YOUR_API_HOST:800/zut/fashion/public/upload/structure/a3f390d88e4c41f2747bfa2f1b5f87db/5ef9529b5b156.jpg"));
             //StartCoroutine(PreviewCoroutine("http://localhost/UpLoad/upload/black.png"));
         }
     }
@@ -152,7 +152,7 @@ public class WebCommunication : MonoBehaviour
         bs.CopyTo(bs3, 0);
         bs2.CopyTo(bs3, bs.Length);
 
-        WWW www = new WWW("http://3d-stereovision.com:800/zut/fashion/Experiment/recvDataFromExperiment", bs3, headers);
+        WWW www = new WWW("http://YOUR_API_HOST:800/zut/fashion/Experiment/recvDataFromExperiment", bs3, headers);
         yield return www;
         Debug.Log(www.text);
         //form.AddField("exp_id", "1");
@@ -161,7 +161,7 @@ public class WebCommunication : MonoBehaviour
         //form.AddField("idx", "1");
         //form.AddField("file_name", "1");
         //form.AddBinaryData("data", tx.EncodeToPNG());
-        //UnityWebRequest req = UnityWebRequest.Post("http://3d-stereovision.com:800/zut/fashion/Experiment/recvDataFromExperiment",bs,headers);
+        //UnityWebRequest req = UnityWebRequest.Post("http://YOUR_API_HOST:800/zut/fashion/Experiment/recvDataFromExperiment",bs,headers);
         //yield return req.SendWebRequest();
         //if (req.isNetworkError)
         //{
@@ -184,7 +184,7 @@ public class WebCommunication : MonoBehaviour
         form.AddField("file_name", "1");
         form.AddField("folder", "Photos/");//定义表单字段用来定义文件夹
         form.AddBinaryData("data", tx.EncodeToPNG(), "11.png", "image/png");//字段名，文件数据，文件名，文件类型
-        UnityWebRequest req = UnityWebRequest.Post("http://3d-stereovision.com:800/zut/fashion/Experiment/recvDataFromExperiment", form);
+        UnityWebRequest req = UnityWebRequest.Post("http://YOUR_API_HOST:800/zut/fashion/Experiment/recvDataFromExperiment", form);
         yield return req.SendWebRequest();
         if (req.isNetworkError)
         {
@@ -203,7 +203,7 @@ public class WebCommunication : MonoBehaviour
         ////form.AddField("idx", "1");
         ////form.AddField("file_name", "1");
         //form.AddBinaryData("data", tx.EncodeToPNG());
-        //UnityWebRequest req = UnityWebRequest.Post("http://3d-stereovision.com:800/zut/fashion/Experiment/recvDataFromExperiment", form);
+        //UnityWebRequest req = UnityWebRequest.Post("http://YOUR_API_HOST:800/zut/fashion/Experiment/recvDataFromExperiment", form);
         //yield return req.SendWebRequest();
         //if (req.isNetworkError)
         //{

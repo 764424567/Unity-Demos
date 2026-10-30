@@ -27,7 +27,7 @@ public class ManagerCallLoca : MonoBehaviour
 
         btnAddReg_Click.onClick.AddListener(btnAddReg_Event);
 
-        string str = "virtualcourse.test2://token=YOUR_TOKEN&experimentId=test01&realName=%E6%B5%8B%E8%AF%95%E5%AE%9E%E9%AA%8C&refurl=http://o3t0306119.zicp.vip:48940/";
+        string str = "virtualcourse.test2://token=YOUR_TOKEN&experimentId=test01&realName=%E6%B5%8B%E8%AF%95%E5%AE%9E%E9%AA%8C&refurl=http://YOUR_EXPERIMENT_HOST:48940/";
         Debug.Log(str.IndexOf("token"));
         str = str.Substring(str.IndexOf("token"), str.Length - str.IndexOf("token"));
         Debug.Log(str);
