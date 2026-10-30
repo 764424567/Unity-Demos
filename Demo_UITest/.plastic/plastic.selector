@@ -1,0 +1,4 @@
+repository "Demo_UITest@tj_unityamateur764@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"

@@ -1,0 +1,11 @@
+A toilet with realistic flushing effects.
+
+Press the left mouse button to flush the toilet.
+
+Load "Flushing_Toilet.unity" for an example scene, or simply drag the Flushing_Toilet.prefab from the Prefabs folder (in the Project window) into the Hierarchy window.
+
+Have fun!
+
+Thanks for purchasing this asset, please consider rating or writing a review about it. If you have any questions then please get in touch at bendurrant@rivermillstudios.com
+
+

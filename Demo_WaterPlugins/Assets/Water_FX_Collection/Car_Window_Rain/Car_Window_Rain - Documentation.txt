@@ -1,0 +1,8 @@
+Load "Car_Window_Rain.unity" for an example scene, or simply drag Car_Window_Rain from the Prefabs folder (in the Project window) into the Hierarchy window. Parent the effect to your car model, then move and scale the effect to overlay the vehicle's windscreen (it doesn't need to be exact). For best results, try angling the effect slightly more flat on to the camera (seen in the example scene).
+
+
+Have fun!
+
+Thanks for purchasing this asset, please consider rating or writing a review about it. If you have any questions then please get in touch at bendurrant@rivermillstudios.com
+
+
