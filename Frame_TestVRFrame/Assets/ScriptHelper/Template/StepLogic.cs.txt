@@ -1,0 +1,71 @@
+﻿/*******************************************************************************
+* 版权声明：北京润尼尔网络科技有限公司，保留所有版权
+* 版本声明：v1.0.0
+* 类 名 称：#ScriptName#
+* 创建日期：#NowTime#
+* 作者名称：#Author#
+* CLR 版本：4.0.30319.42000
+* 修改记录：
+* 描述：
+******************************************************************************/
+
+using UnityEngine;
+using System.Collections;
+
+namespace #NameSpace#
+{
+    /// <summary>
+    /// 
+    /// </summary>
+	public class #ScriptName# : StepLogicBase 
+	{
+
+        private void Start()
+        {
+            StartStepLogic();
+        }
+
+        /// <summary>
+        /// 学习模式步骤存储
+        /// </summary>
+        protected override void StudyStepInput()
+        {
+            //步骤顺序，画外音，步骤开始时执行的方法，步骤提示，步骤触发物体，触发类型，触发后执行的方法，离开步骤前最后执行的方法
+            step.AddStep(StepManager.StepID.orderStep, string.Empty, null, string.Empty, null, Step.TriggerType.none, Step_1, null);
+        }
+
+        /// <summary>
+        /// 考核模式步骤存储
+        /// </summary>
+        protected override void ExamStepInput()
+        {
+            
+        }
+
+        /// <summary>
+        /// 考核模式显示考核提示
+        /// </summary>
+        /// <param name="triggerType">触发类型</param>
+        /// <param name="namePair">触发物体</param>
+        protected override void ShowExamTip(Step.TriggerType triggerType, NamePair namePair)
+        {
+            
+        }
+
+        /// <summary>
+        /// 考核模式隐藏考核提示
+        /// </summary>
+        /// <param name="triggerType">触发类型</param>
+        /// <param name="namePair">触发物体</param>
+        protected override void HideExamTip(Step.TriggerType triggerType, NamePair namePair)
+        {
+            
+        }
+
+
+        private void Step_1() {
+
+        }
+    }
+}
+

@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 403d8a9daef065246a1f8dd0c5ec22cf
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _MicroWaveNormal: {instanceID: 0}
+  - _SlowWaterNormal: {fileID: 2800000, guid: 53b00ac4b7ee2fb4681d46ce396bde98, type: 3}
+  - _SlowWaterTesselation: {fileID: 2800000, guid: 9f1d5e83b0b47104684e6a5b22948a21,
+      type: 3}
+  - _SmallCascadeNormal: {fileID: 2800000, guid: 53b00ac4b7ee2fb4681d46ce396bde98,
+      type: 3}
+  - _SmallCascadeWaterTess: {fileID: 2800000, guid: 9f1d5e83b0b47104684e6a5b22948a21,
+      type: 3}
+  - _SmallCascade: {fileID: 2800000, guid: 2f347103d0fd8084f9e979cf611d6fa1, type: 3}
+  - _BigCascadeNormal: {fileID: 2800000, guid: 53b00ac4b7ee2fb4681d46ce396bde98, type: 3}
+  - _BigCascadeWaterTess: {fileID: 2800000, guid: 7508b8f7422b5ce4799ba4a9d6bb6d27,
+      type: 3}
+  - _BigCascade: {fileID: 2800000, guid: 58f83c63867189d4cb299ceab779c524, type: 3}
+  - _Noise: {fileID: 2800000, guid: cdec882b86a6f9b46b4c79d6a9891f1c, type: 3}
+  - _Foam: {fileID: 2800000, guid: bf5b1f123112e324092cf192bcb1e3f7, type: 3}
+  - _texcoord4: {instanceID: 0}
+  - _texcoord: {instanceID: 0}
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,100 @@
+[
+  {
+    "name": "模块1",
+    "modelType": "list",
+    "statistics": [
+      {
+        "title": "统计标题1",
+        "value": "1"
+      },
+      {
+        "title": "统计标题2",
+        "value": "2"
+      },
+      {
+        "title": "统计标题3",
+        "value": "3"
+      }
+    ],
+    "listcontext": [
+      {
+        "title": "操作步骤1",
+        "context": "操作步骤的具体内容描述"
+      },
+      {
+        "title": "操作步骤2",
+        "context": "操作步骤的具体内容描述"
+      }
+    ]
+  },
+  {
+    "name": "模块2",
+    "modelType": "pics",
+    "statistics": [
+      {
+        "title": "统计标题1",
+        "value": "1"
+      },
+      {
+        "title": "统计标题2",
+        "value": "2"
+      },
+      {
+        "title": "统计标题3",
+        "value": "3"
+      }
+    ],
+    "listpic": [
+      {
+        "title": "图片描述1",
+        "listNo": 0
+      },
+      {
+        "title": "图片描述2",
+        "listNo": 1
+      },
+      {
+        "title": "图片描述3",
+        "listNo": 2
+      }
+    ]
+  },
+  {
+    "name": "模块3",
+    "modelType": "table",
+    "statistics": [
+      {
+        "title": "统计标题1",
+        "value": "1"
+      },
+      {
+        "title": "统计标题2",
+        "value": "2"
+      },
+      {
+        "title": "统计标题3",
+        "value": "3"
+      }
+    ],
+    "listtable": [
+      [
+        "姓名",
+        "年龄",
+        "性别",
+        "学历"
+      ],
+      [
+        "曹正标",
+        "35",
+        "男",
+        "本科"
+      ],
+      [
+        "曹阿",
+        "35",
+        "女",
+        "研究生"
+      ]
+    ]
+  }
+]
