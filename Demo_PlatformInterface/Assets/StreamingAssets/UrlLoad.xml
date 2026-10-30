@@ -1,0 +1,5 @@
+<Node>
+<UrlLogin tips="获取用户信息接口">http://YOUR_EXPERIMENT_HOST:48940/api/base/u3dLogin</UrlLogin>
+<UrlData tips="上传实验数据接口">http://YOUR_EXPERIMENT_HOST:48940/api/experiment/u3d/transmitExperimentData</UrlData>
+<UrlReport tips="获取平台实验业务ID">http://YOUR_EXPERIMENT_HOST:48940/api/experiment/u3d/getExperimentId</UrlReport>
+</Node>
