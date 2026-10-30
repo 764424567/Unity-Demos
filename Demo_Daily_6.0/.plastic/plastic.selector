@@ -1,0 +1,4 @@
+repository "Demo_Daily_6.0@tj_demo1001@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
