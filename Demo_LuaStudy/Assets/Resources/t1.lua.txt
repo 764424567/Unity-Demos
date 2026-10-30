@@ -1,0 +1,4 @@
+function CreateGameObject()
+    local newObj = CS.UnityEngine.GameObject("LuaCreateGameObject");
+    newObj :AddComponent(typeof(CS.UnityEngine.BoxCollider));
+end
