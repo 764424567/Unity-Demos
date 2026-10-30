@@ -1,0 +1,52 @@
+# 3DImage
+
+> **DOTween Pro 补间动画示例合集**
+
+Unity 技术验证 Demo — DOTween Pro 补间动画示例合集
+
+## 📋 基本信息
+
+| 项目 | 内容 |
+| --- | --- |
+| 用途 | DOTween Pro 补间动画示例合集 |
+| Unity 版本 | `2022.3.57f1c2` |
+| 主要场景数 | 4 |
+| 主要脚本数 | 14 |
+| 入库文件数 | 402 |
+| 入库体积 | 11.8 MB |
+| 本地路径 | `E:\Working\DemoFile\3DImage` |
+
+## 🎯 功能要点
+
+- Demigiant/DOTweenPro Examples 三个示例场景（基础/进阶/路径）
+- Scripts/UIRotate.cs 界面旋转交互
+
+## 🎬 主要场景
+
+- `Demigiant/DOTweenPro Examples/DOTweenAnimation_Advanced.unity`
+- `Demigiant/DOTweenPro Examples/DOTweenAnimation_Basics.unity`
+- `Demigiant/DOTweenPro Examples/DOTweenPath.unity`
+- `Scenes/SampleScene.unity`
+
+## 📦 依赖说明
+
+DOTween Pro（付费插件，仅供学习参考）
+
+> ⚠️ 本仓库部分第三方插件（付费插件 / Asset Store 资源）仅供个人学习与技术验证使用，不包含任何授权文件，商用请前往官方渠道购买正版授权。
+
+## 📂 目录说明
+
+| 目录 | 说明 |
+| --- | --- |
+| `Assets/` | 脚本、场景、预制体、贴图、插件 |
+| `Packages/` | Unity Package Manager 依赖声明 |
+| `ProjectSettings/` | Unity 工程配置 |
+
+## ▶️ 运行方式
+
+1. 使用 Unity `2022.3.57f1c2` 打开本工程`
+2. 打开 `Assets/Scenes/` 下对应场景进入 Play 模式
+
+---
+
+*由众诚研发中心技术负责人整理上传 · 用途说明依据工程内场景/脚本内容自动生成*
