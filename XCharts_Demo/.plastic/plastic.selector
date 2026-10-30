@@ -1,0 +1,4 @@
+repository "XCharts_Demo@zcst_working@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
